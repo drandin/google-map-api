@@ -1,0 +1,9 @@
+.idea
+out
+gen
+.DS_Store
+.gitignore
+.idea/
+Controllers/
+Routes/
+resources/
